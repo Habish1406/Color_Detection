@@ -1,7 +1,7 @@
 import cv2
 import pandas as pd
 
-img_path = r'C:\Users\habis\PycharmProjects\pythonProject1\colored-flowers.jpg'
+img_path = r'colored-flowers.jpg'
 img = cv2.imread(img_path)
 
 clicked = False
